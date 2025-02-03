@@ -21,7 +21,7 @@ Welcome to the **Anteiku Intelligence** repository! This project integrates powe
 Ensure you have the following before getting started:
 - A [Railway](https://railway.app/) account
 - Node.js and npm installed
-- A Discord account and server
+- capacity to think
 
 ### Installation
 
@@ -33,7 +33,7 @@ Ensure you have the following before getting started:
 
 2. **Install dependencies**:
     ```bash
-    npm install
+    npm install axios, discord.js @discordjs/builders @discordjs/rest discord-api-types openai dotenv
     ```
 
 3. **Set up environment variables**:
@@ -41,6 +41,8 @@ Ensure you have the following before getting started:
     ```env
     DISCORD_TOKEN=your_discord_token
     DEEPSEEK_API_KEY=your_deepseek_api_key
+    CLIENT_ID=....Bot Client ID
+    GUILD_ID=...Server ID
     ```
 
 4. **Deploy to Railway**:
