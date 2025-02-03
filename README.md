@@ -23,6 +23,10 @@ Ensure you have the following before getting started:
 - Node.js and npm installed
 - capacity to think
 
+
+(![Api Docs](https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg)](https://api-docs.deepseek.com/)
+## Make sure you have an API key of Deepseek. 
+
 ### Installation
 
 1. **Clone the repository**:
