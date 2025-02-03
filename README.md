@@ -27,8 +27,8 @@ Ensure you have the following before getting started:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/deepseek-discord-bot.git
-    cd deepseek-discord-bot
+    git clone https://github.com/KryDenn/Anteiku-Intelligence.git
+    cd Anteiku-Intelligence
     ```
 
 2. **Install dependencies**:
