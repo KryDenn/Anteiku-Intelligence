@@ -24,7 +24,7 @@ Ensure you have the following before getting started:
 - capacity to think
 
 
-(![Api Docs](https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg)](https://api-docs.deepseek.com/)
+[![Api Docs](https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg)](https://api-docs.deepseek.com/)
 ## Make sure you have an API key of Deepseek. 
 
 ### Installation
