@@ -11,11 +11,12 @@ Welcome to the **Anteiku Intelligence** repository! This project integrates powe
 - 🤖 **AI Model Integration**: Combines the capabilities of Deepseek v3 and R1.
 - 🚀 **Seamless Deployment**: Utilizes Railway for efficient and straightforward deployment FREE..
 - 🔍 **Advanced Search**: Enhanced search capabilities for better results within your Discord server.
-- 🛠️ **Customization**: Easily customizable to fit your server's needs.
+- 🛠️ **Customization**: Easily customizable to fit your server's needs.  
 - 💵 **Currency Converter**: Fast and effective real-time currency converter with ExChange Rate Api
 #### Commands. 
-/convertir(currency) [monto] [mount] [USD] [DOP]
-/think [message]
+
+**/convertir(currency) [monto] [mount] [USD] [DOP]**
+**/think [message]**
 ## Getting Started
 
 ### Prerequisites
