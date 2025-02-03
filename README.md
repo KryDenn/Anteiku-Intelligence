@@ -1,4 +1,4 @@
-[![Deepseek v3 & R1](https://img.shields.io/badge/Deepseek-v3%20%26%20R1-blue.svg)](https://deepseek.example.com)
+[![Deepseek v3 & R1](https://img.shields.io/badge/Deepseek-v3%20%26%20R1-blue.svg)](https://deepseek.com)
 [![Railway Deploy](https://img.shields.io/badge/Railway-Deploy-red.svg)](https://railway.app/)
 
 
