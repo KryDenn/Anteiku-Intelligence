@@ -1,9 +1,8 @@
-[![Deepseek v3 & R1](https://img.shields.io/badge/Deepseek-v3%20%26%20R1-blue.svg)](https://deepseek.com)
+![image](https://github.com/user-attachments/assets/2d04dc9f-cb22-401b-829a-4290943d1a57)[![Deepseek v3 & R1](https://img.shields.io/badge/Deepseek-v3%20%26%20R1-blue.svg)](https://deepseek.com)
 [![Railway Deploy](https://img.shields.io/badge/Railway-Deploy-red.svg)](https://railway.app/)
 
 
 # The bot Integrate two of the best models of DeepSeek. R1 && V3. 
-
 
 Welcome to the **Anteiku Intelligence** repository! This project integrates powerful AI models for an enhanced user experience on Discord, leveraging the seamless deployment capabilities of Railway.
 
@@ -13,7 +12,10 @@ Welcome to the **Anteiku Intelligence** repository! This project integrates powe
 - 🚀 **Seamless Deployment**: Utilizes Railway for efficient and straightforward deployment FREE..
 - 🔍 **Advanced Search**: Enhanced search capabilities for better results within your Discord server.
 - 🛠️ **Customization**: Easily customizable to fit your server's needs.
-
+- 💵 **Currency Converter**: Fast and effective real-time currency converter with ExChange Rate Api
+#### Commands. 
+/convertir(currency) [monto] [mount] [USD] [DOP]
+/think [message]
 ## Getting Started
 
 ### Prerequisites
