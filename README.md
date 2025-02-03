@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2d04dc9f-cb22-401b-829a-4290943d1a57)[![Deepseek v3 & R1](https://img.shields.io/badge/Deepseek-v3%20%26%20R1-blue.svg)](https://deepseek.com)
+[![Deepseek v3 & R1](https://img.shields.io/badge/Deepseek-v3%20%26%20R1-blue.svg)](https://deepseek.com)
 [![Railway Deploy](https://img.shields.io/badge/Railway-Deploy-red.svg)](https://railway.app/)
 
 
