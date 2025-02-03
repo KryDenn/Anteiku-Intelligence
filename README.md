@@ -15,8 +15,10 @@ Welcome to the **Anteiku Intelligence** repository! This project integrates powe
 - 💵 **Currency Converter**: Fast and effective real-time currency converter with ExChange Rate Api
 #### Commands. 
 
-**/convertir(currency) [monto] [mount] [USD] [DOP]**
-**/think [message]**
+- **/convertir(currency) [monto] [mount] [USD] [DOP]**
+- **/think [message]**
+
+
 ## Getting Started
 
 ### Prerequisites
